@@ -7,4 +7,4 @@ Internet checker which can watch connection to 8.8.8.8 (google), and in case of 
 Generally batchfile script is trying to ping google server in loop. If connection is fail three times script will shutdown your windows based system
 
 ## How to use
-Add batch batchfile in windows autorun folder
+Add batch batchfile in windows autorun folder, or run it manually
