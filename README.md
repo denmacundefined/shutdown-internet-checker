@@ -1,4 +1,4 @@
-# Internet checker
+# Internet Checker
 Internet checker which can watch connection to 8.8.8.8 (google), and in case of 3 times fail connection will shutdown your PS on windows system
 
 ![internet-checker](/image.jpg)
